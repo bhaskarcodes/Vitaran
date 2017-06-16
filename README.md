@@ -14,23 +14,23 @@ At a certain time of the day, a notification about the total items available is 
 This would save their expenditure of purchase, and the only thing they would have to pay for is transportation.
 
 
-<b>Use Case Diagram</b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
-<b>Use Case Description</b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
-<b>Software Requirement Specification</b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
-<b>Class Diagram</b>   <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
-<b>Database Design</b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
-<b>Table Structure</b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
-<b>Work Breakdown Structure  </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
-<b>Gantt Chart</b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
-<b>Project Network</b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
-<b>Quality Assurance Plan</b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
-<b>Milestones</b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
-<b>Minutes of Meeting</b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
-<b>Code Review</b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
-<b>Test Plan</b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
-<b>Test Report</b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
-<b>Requirements Based Report</b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
-<b>Repository Links</b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
-<b>Release Notes</b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
-<b>Project Closure</b>   <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
-<b>Project Closure Comments</b> <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
+<b>Use Case Diagram : </b> <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
+<b>Use Case Description : </b>: <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
+<b>Software Requirement Specification : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
+<b>Class Diagram : </b>   <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
+<b>Database Design : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
+<b>Table Structure : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
+<b>Work Breakdown Structure : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
+<b>Gantt Chart : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
+<b>Project Network : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
+<b>Quality Assurance Plan : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
+<b>Milestones : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
+<b>Minutes of Meeting : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
+<b>Code Review : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
+<b>Test Plan : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
+<b>Test Report : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
+<b>Requirements Based Report : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.RequirementsBasedReport.pdf">Click to View</a>  
+<b>Repository Links : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
+<b>Release Notes : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
+<b>Project Closure : </b>   <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ProjectClosure.pdf">Click to View</a>  
+<b>Project Closure Comments : </b> <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ProjectClosureComments.pdf">Click to View</a>  
