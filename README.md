@@ -15,21 +15,31 @@
 <li>This would save their expenditure of purchase, and the only thing they would have to pay for is transportation.</li>
 </ul>
 
-<b>Use Case Diagram : </b> <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.UseCaseDiagram.jpg">Click to View</a>  
+<b>Use Case Diagram : </b> 
+
+<img src = "https://raw.githubusercontent.com/bhaskarcodes/Vitaran/master/Quarks.UseCaseDiagram.jpg"/>  
 
 <b>Use Case Description : </b>: <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.UseCaseDescription.pdf">Click to View</a>  
 
 <b>Software Requirement Specification : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.SRS.pdf">Click to View</a>  
 
-<b>Class Diagram : </b>   <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
+<b>Class Diagram : </b>   
+
+<img src = "https://raw.githubusercontent.com/bhaskarcodes/Vitaran/master/Quarks.UseCaseDiagram.jpg"/>  
 
 <b>Sequence Diagrams : </b> <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.SequenceDiagrams.pdf">Click to View</a>  
 
-<b>Database Design : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ER.jpg">Click to View</a>  
+<b>Database Design : </b>  
 
-<b>Table Structure : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.TableDesign.jpg">Click to View</a>  
+<img src = "https://raw.githubusercontent.com/bhaskarcodes/Vitaran/master/Quarks.ER.jpg"/>  
 
-<b>Work Breakdown Structure : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.WBS.jpg">Click to View</a>  
+<b>Table Structure : </b>  
+
+<img src = "https://raw.githubusercontent.com/bhaskarcodes/Vitaran/master/Quarks.TableDesign.jpg"/>  
+
+<b>Work Breakdown Structure : </b>  
+
+<img src = "https://raw.githubusercontent.com/bhaskarcodes/Vitaran/master/Quarks.WBS.jpg"/>  
 
 <b>Gantt Chart : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.GantChart.pdf">Click to View</a>  
 
