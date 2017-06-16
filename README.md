@@ -59,7 +59,21 @@ Project Completion: May 27, 2017
 
 <b>Repository Links : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
 
-<b>Release Notes : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ClassDiagram.jpg">Click to View</a>  
+<b>Release Notes : </b> 
+
+Team Quarks is happy to release Vitaran 1.0 !! There are three android apps to use - Vitaran Donor, Vitaran Collector and Vitaran NGO. Release 1.0 apk Files :   
+
+Vitaran Donor :
+
+https://drive.google.com/open?id=0By55gIbdM9_2blJ5R3E3VjJCbEU    
+
+Vitaran Collector:
+
+https://drive.google.com/open?id=0By55gIbdM9_2RlNOM0VUNEJ4elE
+
+Vitaran NGO :
+
+https://drive.google.com/open?id=0B8YNHK_hIVDScE9ZNlR5ZEQwZGM
 
 <b>Project Closure : </b>   <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.ProjectClosure.pdf">Click to View</a>  
 
