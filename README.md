@@ -33,9 +33,7 @@
 
 <img src = "https://raw.githubusercontent.com/bhaskarcodes/Vitaran/master/Quarks.ER.jpg"/>  
 
-<b>Table Structure : </b>  
-
-<img src = "https://raw.githubusercontent.com/bhaskarcodes/Vitaran/master/Quarks.TableDesign.jpg"/>  
+<b>Table Structure : </b>  <a href = "https://github.com/bhaskarcodes/Vitaran/blob/master/Quarks.TableDesign.pdf">Click to View</a>    
 
 <b>Work Breakdown Structure : </b>  
 
